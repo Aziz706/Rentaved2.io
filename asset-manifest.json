@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Rentaved2.io/static/css/main.8e5a127a.css",
-    "main.js": "/Rentaved2.io/static/js/main.4757da53.js",
+    "main.css": "/Rentaved2.io/static/css/main.998dc5ec.css",
+    "main.js": "/Rentaved2.io/static/js/main.4d0d2839.js",
     "static/js/787.cdc8d0af.chunk.js": "/Rentaved2.io/static/js/787.cdc8d0af.chunk.js",
-    "static/media/logo-full.svg": "/Rentaved2.io/static/media/logo-full.af690b65f565a741d3a64167e70a2abe.svg",
+    "static/media/logo.jpg": "/Rentaved2.io/static/media/logo.04c686b306ca723c7e4b.jpg",
     "index.html": "/Rentaved2.io/index.html",
-    "main.8e5a127a.css.map": "/Rentaved2.io/static/css/main.8e5a127a.css.map",
-    "main.4757da53.js.map": "/Rentaved2.io/static/js/main.4757da53.js.map",
+    "main.998dc5ec.css.map": "/Rentaved2.io/static/css/main.998dc5ec.css.map",
+    "main.4d0d2839.js.map": "/Rentaved2.io/static/js/main.4d0d2839.js.map",
     "787.cdc8d0af.chunk.js.map": "/Rentaved2.io/static/js/787.cdc8d0af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e5a127a.css",
-    "static/js/main.4757da53.js"
+    "static/css/main.998dc5ec.css",
+    "static/js/main.4d0d2839.js"
   ]
 }
